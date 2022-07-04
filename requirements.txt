@@ -1,0 +1,8 @@
+django-cors-headers
+djangorestframework
+psycopg2-binary
+beautifulsoup4
+pycryptodome
+requests
+urllib3
+Django
