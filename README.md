@@ -15,3 +15,4 @@
 ### ![](./wallet.png)
 
 ## Тестировалась на ubuntu 20.04
+# ClipperNotes
